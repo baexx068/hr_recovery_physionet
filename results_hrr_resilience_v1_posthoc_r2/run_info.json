@@ -1,0 +1,6 @@
+{
+ "cut_s": 22.0,
+ "cut_rule": "75th percentile of dt in eligible tests",
+ "n_tests": 596,
+ "seed": 42
+}

@@ -1,0 +1,9 @@
+{
+ "spearman_dt_test1_test2": 0.02539785730418821,
+ "pairs_long_any": 27,
+ "pairs_long_both": 5,
+ "dt_pct2_5": -10.0,
+ "dt_pct97_5": 66.0,
+ "dt_min": -17.0,
+ "dt_max": 346.0
+}

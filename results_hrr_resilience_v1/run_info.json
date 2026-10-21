@@ -1,0 +1,14 @@
+{
+ "run": "2026-10-13T10:13:32",
+ "python": "3.10.12",
+ "numpy": "2.2.6",
+ "pandas": "2.3.3",
+ "seed": 42,
+ "nboot": 2000,
+ "raw_dir": "/sessions/rcw-01599u6qcwswu3nwyydjz3ag/mnt/treadmil/raw",
+ "sha256": {
+  "subject-info.csv": "e9ca5ba20eb1272df56c11d3e584ec3997d5484454812bd94966e58082415f16",
+  "test_measure.csv": "3b5ed5586dc7412ccdfb26f804e29c06482a2a1df2060399c2731ebc68d4613d"
+ },
+ "prespec": "03_RESEARCH/projects/hr_recovery_resilience/analysis.md 사전지정 2026-10-12 21:30 KST"
+}

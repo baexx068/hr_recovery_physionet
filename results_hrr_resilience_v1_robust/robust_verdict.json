@@ -1,0 +1,13 @@
+{
+ "engine_icc1_mixedlm": 0.666141520898655,
+ "engine_icc1_anova": 0.6694551539288607,
+ "robust": {
+  "B120": true,
+  "B180": false
+ },
+ "r3_any_pass": false,
+ "plan": "05_RUNS/hr_recovery_resilience/2026-10-12_conditional_plan.md",
+ "seed": 42,
+ "nboot": 2000,
+ "input_sha256_test_level": "6e05b1203fa584996878c1de676cc16ae4273ab104a4d2decfa7e4c0c2685ddf"
+}

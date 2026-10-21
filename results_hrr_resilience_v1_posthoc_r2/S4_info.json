@@ -1,0 +1,8 @@
+{
+ "rule": "peak smoothed HR minus mean smoothed HR within t0_B \u00b1 5 s > cut",
+ "main_cut_bpm": 10,
+ "gap_median_dt_le22": 1.0000000000000284,
+ "gap_median_dt_gt22": 5.9375,
+ "gap_median_dt_gt60": 12.200000000000045,
+ "n_dt_gt22": 143
+}

@@ -1,0 +1,5 @@
+,rec_dur,rec_dur,rec_dur,age,age,age,vo2peak_kg,vo2peak_kg,vo2peak_kg,hr_peak,hr_peak,hr_peak,B60,B60,B60,B120,B120,B120,speed_110_130,speed_110_130,speed_110_130,speed_last10,speed_last10,speed_last10
+,count,mean,std,count,mean,std,count,mean,std,count,mean,std,count,mean,std,count,mean,std,count,mean,std,count,mean,std
+grp,,,,,,,,,,,,,,,,,,,,,,,,
+rec125-180,166,169.25,12.08,166,31.98,9.29,166,46.42,8.19,166,184.21,11.51,166,31.43,11.42,166,52.63,11.77,166,4.95,0.06,166,4.95,0.06
+rec>=180,596,206.23,40.99,596,30.8,9.22,596,45.73,8.31,596,185.59,9.83,596,31.05,9.66,596,53.15,11.6,596,4.98,0.05,596,4.89,0.67

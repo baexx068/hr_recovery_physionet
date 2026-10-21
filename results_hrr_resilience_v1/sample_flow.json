@@ -1,0 +1,21 @@
+{
+ "flow": {
+  "tests": 992,
+  "adults": 847,
+  "adult_fail": {
+   "ok": 846,
+   "speed_channel_anomaly": 1
+  },
+  "adult_rec_lt180": 190,
+  "adult_ok_not_std": 61,
+  "eligible_tests": 596,
+  "eligible_subjects": 529,
+  "pairs": 57,
+  "fit_n": 472,
+  "gap_median_y": 0.6999999999999993,
+  "posthoc_eligible_tests": 762,
+  "posthoc_pairs": 81,
+  "posthoc_fit_n": 584
+ },
+ "example_test": "36_1"
+}
